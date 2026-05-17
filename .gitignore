@@ -2,11 +2,8 @@
 app/build/
 build/
 
-# Gradle
+# Gradle cache
 .gradle/
-gradle-app.setting
-!gradle-wrapper.jar
-!gradle-wrapper.properties
 
 # Android Studio
 *.iml
