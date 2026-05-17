@@ -1,0 +1,17 @@
+# Build outputs
+app/build/
+build/
+
+# Gradle cache
+.gradle/
+
+# Android Studio
+*.iml
+.idea/
+local.properties
+captures/
+*.orig
+
+# OS
+.DS_Store
+Thumbs.db
