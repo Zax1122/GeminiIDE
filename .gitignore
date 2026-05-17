@@ -1,0 +1,20 @@
+# Build outputs
+app/build/
+build/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Android Studio
+*.iml
+.idea/
+local.properties
+captures/
+*.orig
+
+# OS
+.DS_Store
+Thumbs.db
