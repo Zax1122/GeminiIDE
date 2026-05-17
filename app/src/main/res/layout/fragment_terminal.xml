@@ -37,7 +37,6 @@
             android:background="#1a1a1a"
             android:typeface="monospace"
             android:hint="$ enter command"
-            android:hintTextColor="#555555"
             android:padding="8dp"
             android:singleLine="true"/>
 
