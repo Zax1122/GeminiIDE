@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<full-backup-content>
-    <!-- Exclude encrypted prefs from backup -->
-    <exclude domain="sharedpref" path="gemini_prefs.xml"/>
-</full-backup-content>

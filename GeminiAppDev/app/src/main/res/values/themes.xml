@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.GeminiIDE" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <item name="colorPrimary">#1a73e8</item>
-        <item name="colorPrimaryVariant">#1557b0</item>
-        <item name="colorOnPrimary">#ffffff</item>
-    </style>
-</resources>
